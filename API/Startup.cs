@@ -59,6 +59,7 @@ namespace API
             {
                 endpoints.MapControllers();
             });
+
         }
     }
 }
